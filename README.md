@@ -14,4 +14,14 @@ Python bash - python3 -m http.server
 * As a user I want to be able to sign up to a newsletter to keep up to date with information about the topic
 * As a user I want easy to udnerstand tips and guidelines
 
+
+
+
+### Wireframe layouts
+#### Wireframe 1 - PC
+
 ![Wireframe](assets/images/New%20Wireframe%201%20copy.png)
+
+#### Wireframe 1 - Mobile
+
+![Wireframephone](assets/images/New%20Wireframe%201%20copy%202.png)
